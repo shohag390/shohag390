@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohag390" alt="shohag390" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shohag_1539" target="blank"><img src="https://img.shields.io/twitter/follow/shohag_1539?logo=twitter&style=for-the-badge" alt="shohag_1539" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://mdshohaghossen-sm29.netlify.app/](https://mdshohaghossen-sm29.netlify.app/)
