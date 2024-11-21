@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shohag Ali</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohag390&label=Profile%20views&color=0e75b6&style=flat" alt="shohag390" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohag390" alt="shohag390" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shohag_1539" target="blank"><img src="https://img.shields.io/twitter/follow/shohag_1539?logo=twitter&style=for-the-badge" alt="shohag_1539" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
