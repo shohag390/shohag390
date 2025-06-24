@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Shohag Ali</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
 
-![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750786656/Purple_Blue_Simple_Professional_Marketing_Professional_LinkedIn_Article_Cover_Image_betqwo.png)
+![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohag390&label=Profile%20views&color=0e75b6&style=flat" alt="shohag390" /> </p>
 
