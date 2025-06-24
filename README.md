@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Shohag Ali</h1>
-<h3 align="center">I'm a MERN Stack Developer</h3>
+<h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
+<h3 align="center">I AM A FRONTEND DEVELOPER</h3>
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
