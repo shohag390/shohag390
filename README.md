@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
+![Typing Banner](https://your-image-url.com/typing.gif)
 <h3 align="center">I AM A FRONTEND DEVELOPER</h3>
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
