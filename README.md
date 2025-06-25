@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
+<h1>Hi 👋, I AM MD SHOHAG ALI</h1>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png" alt="Frontend Developer Banner" width="100%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=shohag390&label=Profile%20views&color=0e75b6&style=flat" alt="shohag390" />
 </p>
 
@@ -38,10 +38,7 @@ Hi, I'm <b>Md Shohag Ali</b> — A passionate <strong>Front-End Developer</stron
   <a href="https://instagram.com/mdshohag9263" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/shohag_1539" target="blank">
-    <img src="https://img.shields.io/twitter/follow/shohag_1539?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
+ </p>
 
 ---
 
