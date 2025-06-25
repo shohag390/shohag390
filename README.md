@@ -37,6 +37,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shohag390&show_icons=true&locale=en" alt="shohag390" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&" alt="shohag390" /></p>
+<p><img align="center" width="100%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&" alt="shohag390" /></p>
 
 
