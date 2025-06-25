@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
-<h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
@@ -9,18 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/shohag_1539" target="blank"><img src="https://img.shields.io/twitter/follow/shohag_1539?logo=twitter&style=for-the-badge" alt="shohag_1539" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **I am exploring NEXT.JS**
 
-- 👨‍💻 All of my projects are available at [https://mdshohaghossen-sm29.netlify.app/](https://mdshohaghossen-sm29.netlify.app/)
+- 🌱 I’m currently learning **React.JS & NEXT.JS**
 
-- 💬 Ask me about **React & JavaScript**
+- 👨‍💻 All of my projects are available at [https://mdshohagali.netlify.app/](https://mdshohagali.netlify.app/)
+
+- 💬 Ask me about **React.JS**
 
 - 📫 How to reach me **shohag.webdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hFdr-Lp8RCE_IAWcmOZgjWgXF_EfDnTJ/view?usp=sharing](https://drive.google.com/file/d/1hFdr-Lp8RCE_IAWcmOZgjWgXF_EfDnTJ/view?usp=sharing)
-
-- ⚡ Fun fact **I Love to Travel & Explore The World**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shohag_1539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shohag_1539" height="30" width="40" /></a>
