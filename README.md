@@ -2,7 +2,7 @@
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
-<h3 align="center">Hi, I'm Shohag — a passionate Front-End Developer with a strong focus on React.js. I love crafting clean, responsive user interfaces that are both functional and visually appealing. I'm always learning and enjoy turning ideas into real, usable web applications.</h3>
+<p align="justify" >Hi, I'm Shohag — a passionate Front-End Developer with a strong focus on React.js. I love crafting clean, responsive user interfaces that are both functional and visually appealing. I'm always learning and enjoy turning ideas into real, usable web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohag390&label=Profile%20views&color=0e75b6&style=flat" alt="shohag390" /> </p>
 
