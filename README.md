@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I AM MD SHOHAG ALI</h1>
+<h1>Hi 👋, I AM MD SHOHAG ALI</h1>
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
