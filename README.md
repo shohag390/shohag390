@@ -66,19 +66,19 @@ Hi, I'm <b>Md Shohag Ali</b> — A passionate <strong>Front-End Developer</stron
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=shohag390&show_icons=true&locale=en&layout=compact&theme=dark" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=shohag390&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000" 
        alt="Top Languages" />
 </p>
 
 <p>
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=shohag390&show_icons=true&locale=en&theme=dark" 
+       src="https://github-readme-stats.vercel.app/api?username=shohag390&show_icons=true&locale=en&theme=dark&bg_color=00000000" 
        alt="GitHub Stats" />
 </p>
 
 <p>
   <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&theme=dark" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&theme=dark&background=00000000" 
        alt="GitHub Streak" />
 </p>
 
