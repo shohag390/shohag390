@@ -2,7 +2,7 @@
 
 ![I am GitHub Readme Generator's creator](https://res.cloudinary.com/dhjyxwscg/image/upload/v1750787200/frontend_vbfbnz.png)
 
-<p align="justify" >Hi, I'm Shohag — a passionate Front-End Developer with a strong focus on React.js. I love crafting clean, responsive user interfaces that are both functional and visually appealing. I'm always learning and enjoy turning ideas into real, usable web applications.</p>
+<p align="justify" >Hi, I'm Md Shohag Ali — A passionate Front-End Developer with a strong focus on React.js. I love crafting clean, responsive user interfaces that are both functional and visually appealing. I'm always learning and enjoy turning ideas into real, usable web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohag390&label=Profile%20views&color=0e75b6&style=flat" alt="shohag390" /> </p>
 
@@ -35,8 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohag390&show_icons=true&locale=en&layout=compact" alt="shohag390" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shohag390&show_icons=true&locale=en" alt="shohag390" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shohag390&show_icons=true&locale=en" alt="shohag390" /></p>
 
-<p><img align="center" width="100%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&" alt="shohag390" /></p>
+<p><img align="left" width="100%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=shohag390&" alt="shohag390" /></p>
 
 
